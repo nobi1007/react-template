@@ -1,7 +1,7 @@
 {
   "name": "webpack-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple and light weight React Template",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --watch",
@@ -9,7 +9,7 @@
     "start": "webpack serve --open"
   },
   "keywords": [],
-  "author": "",
+  "author": "nobi1007",
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.12.10",
