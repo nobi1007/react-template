@@ -1,5 +1,9 @@
 # react-template
 
+A simple and light weight react template.
+> not yet production ready ://
+
+
 ### Setup:
 
 ```bash
