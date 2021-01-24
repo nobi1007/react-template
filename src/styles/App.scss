@@ -1,0 +1,21 @@
+.main {
+  height: calc(100vh);
+  padding: 10px;
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  &.b {
+    background-color: blue;
+  }
+  &.c {
+    background-color: gray;
+  }
+  &.d {
+    background-color: green;
+  }
+  &.e {
+    background-color: yellow;
+  }
+}
